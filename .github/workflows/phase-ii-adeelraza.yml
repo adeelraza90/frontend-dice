@@ -23,7 +23,7 @@ jobs:
         uses: docker/metadata-action@v4
         id: meta
         with:
-          images: adeelraza900/kalsym
+          images: adeelraza90/kalsym
           tags: |
             type=sha
       -
